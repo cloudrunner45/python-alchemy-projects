@@ -3,7 +3,7 @@ from sqlalchemy import create_engine, Column, Integer, String, ForeignKey
 from sqlalchemy.orm import sessionmaker, relationship, declarative_base
 
 #database connection
-engine = create_engine('postgresql://joeymorgenstern:joe12@localhost/tech_track_db')
+engine = create_engine()
 Base = declarative_base()
 
 #model
