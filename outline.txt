@@ -1,0 +1,13 @@
+main menu 
+- create
+    - create student
+    - create teacher
+- deleate
+    - deleate student
+    - deleate teacher
+- update
+    - update student class 
+    - update teacher class
+- read   
+    - view all students
+    - view all teachers 
